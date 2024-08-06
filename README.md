@@ -19,7 +19,7 @@ The **News Aggregator** is an assessment project that aggregates news articles f
 
 To get started with the project, follow these steps:
 
-1. **Download and Unzip**: Download the zip file containing the project code and extract its contents to a directory on your local machine.
+1. **Clone the repo from**: [Download the zip file containing the project code and extract its contents to a directory on your local machine](https://github.com/sarfaraaz-khan/newsAggregator.git).
 
 2. **Navigate to the Project Directory**:
 
